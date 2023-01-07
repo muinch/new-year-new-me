@@ -33,7 +33,7 @@ section {
 
 /* Header Section */
 header {
-  background-image: url("./images/banner/banner1.png");
+  background-image: url("../images/banner/banner1.png");
   background-color: #f8f8f8;
   background-repeat: no-repeat;
   background-size: cover;
