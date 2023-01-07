@@ -136,7 +136,7 @@ header {
 /* Call Now Section */
 .call-now {
   background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
-  background-image: url(/images/watch.png);
+  background-image: url(../images/watch.png);
   background-blend-mode: screen;
   background-size: cover;
   background-repeat: no-repeat;
